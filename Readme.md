@@ -1,6 +1,6 @@
 # Hey, there everyone `Jay Shah` here
 
-## [Live Project Demo](https://crypto-landing-page-gules.vercel.app/)
+## [Live Project Demo](https://project-5-crypto-page.netlify.app/)
 
 <br>
 
